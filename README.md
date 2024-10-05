@@ -1,7 +1,3 @@
-# freegiftzone
-It looks like you have provided all the essential files for your **Giveaway Countdown Tracker** Chrome extension, which includes JavaScript, HTML, CSS, and the manifest file. Now, here’s the full **README.md** for your GitHub repository that explains everything and includes the backlink.
-
----
 
 # Giveaway Countdown Tracker - Chrome Extension
 
@@ -55,6 +51,3 @@ If you’d like to contribute to the project, feel free to submit pull requests 
 For more information and to grab daily giveaway codes, visit:  
 [Free Gift Zone](https://www.freegiftzone.com)
 
----
-
-This **README** explains the functionality, usage, and installation of your Chrome extension. It also includes the backlink to your site. You can upload this README along with your files on GitHub.
